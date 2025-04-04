@@ -8,14 +8,14 @@
 ## User Story Overview
 
 ### Persona
-- **Name**: Alex Carter
-- **Role**: Subsea Operator
-- **Background**: Alex is a seasoned subsea operator with 10 years of experience in deepwater oil and gas operations. He works for an offshore energy company and is responsible for overseeing jumper installations and subsea asset maintenance. Alex relies on precise metrology data to ensure jumpers fit correctly between hubs, minimizing costly errors.
-- **Needs**: Alex needs a reliable, user-friendly system that provides accurate measurements, real-time feedback, and a preliminary view of results during the survey. This allows him to make informed decisions on the fly, such as adjusting the survey path or addressing potential issues before completion.
+- **Name**: Harry Tackey-Otoo
+- **Role**: Senior Survey Engineer
+- **Background**: Harry is a seasoned subsea operator with 10 years of experience in deepwater oil and gas operations. He works for an offshore energy company and is responsible for overseeing jumper installations and subsea asset maintenance. Harry relies on precise metrology data to ensure jumpers fit correctly between hubs, minimizing costly errors.
+- **Needs**: Harry needs a reliable, user-friendly system that provides accurate measurements, real-time feedback, and a preliminary view of results during the survey. This allows him to make informed decisions on the fly, such as adjusting the survey path or addressing potential issues before completion.
 
 ### Additional Stakeholders
-- **ROV Pilot (Sam Riley)**: Operates the ROV to deploy the metrology device and navigate between subsea assets. Needs clear instructions and real-time system status.
-- **Data Analyst (Priya Sharma)**: Processes post-mission data to generate detailed maps and reports for engineering teams. Needs structured, reliable data exports.
+- **ROV Pilot (Benedict)**: Operates the ROV to deploy the metrology device and navigate between subsea assets. Needs clear instructions and real-time system status.
+- **Data Analyst (Elvis)**: Processes post-mission data to generate detailed maps and reports for engineering teams. Needs structured, reliable data exports.
 
 ---
 
