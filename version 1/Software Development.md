@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 ### 1.1 Purpose
-The Subsea Jumper Metrology System (Version 1) software is a critical component of a subsea measurement system designed to determine the distance, orientation (pitch, roll, yaw, heading), and vertical distance between multiple subsea assets (e.g., jumper hubs, pipelines, wellheads) at depths up to 5000m. Deployed via a Remotely Operated Vehicle (ROV), the system operates without external GPS, relying on dead-reckoning with the D90 IMU, error correction techniques (ZUPT, Position Updates, Kalman Filtering), and a pressure sensor for depth measurements. A detachable PEEK stab ensures stability during stationary periods, and the software must manage its operational workflow. The software must be robust, real-time capable, and fault-tolerant to meet the demands of deepwater operations.
+The Subsea Jumper Metrology System (Version 1) software is a critical component of a subsea measurement system designed to determine the distance, orientation (pitch, roll, yaw, heading), and vertical distance between multiple subsea assets (e.g., jumper hubs, pipelines, wellheads) at depths up to 5000m. Deployed via a Remotely Operated Vehicle (ROV), the system operates without external GPS, relying on dead-reckoning with the D90 IMU, error correction techniques (ZUPT, Position Updates, Kalman Filtering), and a pressure sensor for depth measurements. 
 
 ### 1.2 Scope
 This document provides a detailed software scope and technical specification for Version 1, including:
