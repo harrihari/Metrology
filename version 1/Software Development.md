@@ -1,9 +1,3 @@
-Below is a detailed **Software Scope and Technical Specification** for the Subsea Jumper Metrology System (Version 1), tailored for a critical system operating at depths up to 5000m. As an expert-level software engineer with extensive experience in critical systems and specification documentation, I’ve structured this document to provide a clear, actionable roadmap for the development team. The software must support high-accuracy navigation, multi-point surveys, and error correction, interfacing with hardware components like the D90 IMU, pressure sensor, and ROV systems. The system includes a detachable PEEK stab for stability, and the software must account for its operational use.
-
-This document includes a feature list with detailed explanations for each feature to guide implementation, ensuring reliability, real-time performance, and ease of maintenance in a subsea environment.
-
----
-
 # Software Scope and Technical Specification for Subsea Jumper Metrology System (Version 1)
 
 ## 1. Introduction
