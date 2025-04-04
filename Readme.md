@@ -225,6 +225,3 @@ This document details the technical specifications, operational workflow, and pr
   - Deploy the system at 5000m depth to test multi-point surveys and overall performance.
 - **Documentation**:
   - Prepare technical specifications, user manuals, and training materials.
-
-## 9. Conclusion
-The Subsea Jumper Metrology System is a high-accuracy, 5000m-rated solution for subsea metrology, with multi-point surveys as a core feature. Version 2 enhancements (Camera System with Visual Odometry and DVL) improve accuracy to ~0.05–0.1m, making the system versatile for mapping complex subsea fields. The development plan ensures a structured path to market, addressing challenges through rigorous testing and validation. This system is poised to meet the needs of deepwater oil and gas operators, offering efficiency, precision, and reliability.
