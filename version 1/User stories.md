@@ -1,6 +1,6 @@
 # Software User Story: Subsea Jumper Metrology System (Version 1)
 
-**As a subsea operator, I want a software system to accurately measure and map the positions of multiple subsea assets in a single deployment, with a general idea of the results before completion, so that I can efficiently plan jumper installations and maintenance at 5000m depth.**
+**As a Survey Engineer, I want a software system to accurately measure and map the positions of multiple subsea assets in a single deployment, with a general idea of the results before completion, so that I can efficiently plan jumper installations and maintenance at 5000m depth.**
 
 ---
 
