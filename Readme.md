@@ -102,11 +102,11 @@ This document details the technical specifications, operational workflow, and pr
 - **Objective**: Determine true heading using Earth’s rotation.
 - **Process**:
   - The ROV remains stationary at Hub A.
-  - The D90 IMU’s gyroscopes measure Earth’s rotation rate (\(\omega_e \approx 15°/\text{hr}\)) to estimate heading:
+  - The D90 IMU’s gyroscopes measure Earth’s rotation rate $(\(\omega_e \approx 15°/\text{hr}\))$$ to estimate heading:
     
     $$\text{Heading} = \arctan\left(\frac{-\omega_y}{\omega_x \cos(\phi) + \omega_z \sin(\phi)}\right)$$
     
-    $$where \(\omega_x, \omega_y, \omega_z\) are gyro outputs, and \(\phi\) is the latitude.$$
+    where $$\(\omega_x, \omega_y, \omega_z\) are gyro outputs, and \(\phi\)$$ is the latitude.
 - **Duration**: 1–5 minutes.
 
 ### 4.3 Step 3: Multi-Point Survey Execution
