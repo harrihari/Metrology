@@ -1,7 +1,3 @@
-Below is an updated **comprehensive software user story** for the Subsea Jumper Metrology System (Version 1), incorporating the requirement to provide a general idea of the results before survey completion. I’ve also removed references to the detachable PEEK stab, as requested, focusing solely on the software aspects. Additionally, I’ve included a specific **jumper metrology scenario** among the scenarios to reflect a key use case for the system. The user story continues to address the needs of subsea operators, ROV pilots, and data analysts, ensuring alignment with the system’s requirements for high-accuracy navigation, multi-point surveys, and operation at 5000m depth.
-
----
-
 # Software User Story: Subsea Jumper Metrology System (Version 1)
 
 ## Title
