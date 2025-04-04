@@ -55,7 +55,7 @@ The software serves as the central control and processing unit for the Subsea Ju
     - Use RS-232/RS-422 to interface with the pressure sensor (e.g., Paroscientific Digiquartz).
     - Parse pressure data (in bar) and convert to depth:
       
-     $$ \text{Depth} = \frac{\text{Pressure}}{\rho \cdot g}$$
+     $$\text{Depth} = \frac{\text{Pressure}}{\rho \cdot g}$$
      
       where $$\(\rho = 1025 \, \text{kg/m}^3\) (seawater density), \(g = 9.81 \, \text{m/s}^2\)$$.
   - **Timestamping**:
