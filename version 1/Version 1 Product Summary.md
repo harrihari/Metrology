@@ -80,7 +80,6 @@ This document outlines the product development scope for Version 1 of the Subsea
   - Power consumption: ~1W.
 - **Interface with ROV**: RS-232 or RS-422, power input ~24V DC.
 - **Total Power Consumption**: ~8W (D90 IMU: 5W, pressure sensor: 2W, data logger: 1W).
-- **Total Weight**: ~1.7–1.8 kg (including stab).
 
 #### ROV
 - Depth rating: 5000m.
