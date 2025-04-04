@@ -118,8 +118,7 @@ The software serves as the central control and processing unit for the Subsea Ju
     
       Use quaternions to avoid gimbal lock:
     
-     $$\mathbf{q}(t) = \mathbf{q}(t-1) \otimes \Delta \mathbf{q}, \quad \Delta \mathbf{q} = \begin{bmatrix} \cos(|\omega| \Delta t / 2)$$
-    $$\frac{\omega}{|\omega|} \sin(|\omega| \Delta t / 2) \end{bmatrix}$$
+     $$\mathbf{q}(t) = \mathbf{q}(t-1) \otimes \Delta \mathbf{q}, \quad \Delta \mathbf{q} = \begin{bmatrix} \cos(|\omega| \Delta t / 2)\frac{\omega}{|\omega|} \sin(|\omega| \Delta t / 2) \end{bmatrix}$$
     
   - **Velocity and Position**:
     - Transform acceleration from body frame to navigation frame using the rotation matrix derived from orientation.
